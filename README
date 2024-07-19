@@ -34,6 +34,10 @@
    ```bash
    python manage.py runserver
    ```
+7. Run the tests:
+   ```bash
+python manage.py tests
+```
 
 ## API Endpoints
 
