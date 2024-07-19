@@ -41,8 +41,8 @@
 - `POST /api/blog/`: Create a new blog
 - `UPDATE /api/blog/`: Update a specific blog
 - `DELETE /api/blog/`: Delete a particular blog
-- `POST /comment/`: Comment on a specific blog
-- `POST /like/`: Like a specific blog
+- `POST api/comment/`: Comment on a specific blog
+- `POST api/like/`: Like a specific blog
 
 ## Authentication
 
