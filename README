@@ -5,7 +5,7 @@
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd blog_project
+   cd blog_app
    ```
 
 2. Create a virtual environment and activate it:
@@ -45,10 +45,10 @@ python manage.py tests
 - `POST /api/blog/`: Create a new blog
 - `UPDATE /api/blog/`: Update a specific blog
 - `DELETE /api/blog/`: Delete a particular blog
-- `POST api/comment/`: Comment on a specific blog
-- `POST api/like/`: Like a specific blog
+- `POST /api/comment/`: Comment on a specific blog
+- `POST /api/like/`: Like a specific blog
 
 ## Authentication
 
-- `POST api/register/`: Registeration API
+- `POST /api/register/`: Registeration API
 - `POST /api/login/`: Login API
